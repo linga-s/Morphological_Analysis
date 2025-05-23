@@ -1,0 +1,9 @@
+{
+    "INPUT_DIM": 71,
+    "OUTPUT_DIM": 71,
+    "EMBED_DIM": 64,
+    "ENC_HIDDEN_DIM": 128,
+    "DEC_HIDDEN_DIM": 128,
+    "N_LAYERS": 2,
+    "DROPOUT": 0.3
+}
